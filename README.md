@@ -1,5 +1,5 @@
 # Task Manager & Chat App
-## By Rahulji.V and Saravana krishnan
+### By Rahulji.V and Saravana krishnan
 A full-stack Task Manager with an integrated Chat feature. This project consists of separate backend and frontend services running on different ports for task management and chat functionality.
 
 ## Features
